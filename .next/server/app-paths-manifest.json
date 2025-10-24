@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/manager/profile/page": "app/manager/profile/page.js",
+  "/employee/history-detail/page": "app/employee/history-detail/page.js",
+  "/hr/employees/page": "app/hr/employees/page.js",
+  "/hr/criteria/page": "app/hr/criteria/page.js",
+  "/hr/rounds/page": "app/hr/rounds/page.js",
+  "/hr/dispatch/page": "app/hr/dispatch/page.js",
+  "/hr/processing/page": "app/hr/processing/page.js",
+  "/hr/grading/page": "app/hr/grading/page.js",
+  "/hr/reports/page": "app/hr/reports/page.js",
+  "/hr/termination/page": "app/hr/termination/page.js"
+}
